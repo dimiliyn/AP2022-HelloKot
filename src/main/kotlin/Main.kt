@@ -4,4 +4,5 @@ fun main(args: Array<String>) {
     print("Let's do that!")
     print(" Go!")
     println("\nDone!")
+    println("Some updates locally! Welcome to server!")
 }
