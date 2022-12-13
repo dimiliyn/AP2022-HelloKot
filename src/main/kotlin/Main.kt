@@ -5,4 +5,9 @@ fun main(args: Array<String>) {
     print(" Go!")
     println("\nDone!")
     println("Some updates locally! Welcome to server!")
+    // this section created under code-update branch
+    println("Hey, we are at the new branch. Let's do something.")
+    println("2+2="+2+2)
+    print("Wow :(")
+    println(" Obviously we need to learn Kotlin...")
 }
