@@ -5,8 +5,6 @@ fun main(args: Array<String>) {
     print(" Go!")
     println("\nDone!")
     println("Some updates locally! Welcome to server!")
-
-
-
     println("Changes #2 that will be committed first.")
+    println("Changes #1 in local repo that will be stashed and returned after changes #2")
 }
