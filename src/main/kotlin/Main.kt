@@ -5,4 +5,8 @@ fun main(args: Array<String>) {
     print(" Go!")
     println("\nDone!")
     println("Some updates locally! Welcome to server!")
+
+
+
+    println("Changes #2 that will be committed first.")
 }
