@@ -7,4 +7,5 @@ fun main(args: Array<String>) {
     println("Some updates locally! Welcome to server!")
     println("Changes #2 that will be committed first.")
     println("Changes #1 in local repo that will be stashed and returned after changes #2")
+    println("Changes on repo-branch branch on github repo to do pull request.")
 }
